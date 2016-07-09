@@ -1,0 +1,13 @@
+body {
+    background-color: #FFF;
+    display: block;
+    font-size: 1em;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 5pt;
+	text-indent: 1em;
+    }
+td {
+    padding: 10px;
+	width: 50%;
+}
