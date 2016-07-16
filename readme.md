@@ -1,5 +1,7 @@
 Parallel translation of Ponniyin Celvan (பொன்னியின் செல்வன்) by கல்கி கிருஷ்ணமூர்த்தி. The Tamil and English versions were both acquired from [Project Madurai](http://www.projectmadurai.org/), and you can find the originals located there.
 
+As of chapter 19, I've switched to using the Tamil version from http://www.chennailibrary.com/kalki/ponniyinselvan/ which seems to have less copy errors.
+
 The annotated versions include ruby HTML tags with some automatic translations of words done by Google Translate, which is incredibly rough, but should help the reader mentally line up the Tamil words with the English words.
 
 If you wish to preview these pages without downloading, you can use `https://htmlpreview.github.io/?<URL>`, like:
