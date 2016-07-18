@@ -11,6 +11,11 @@ body {
 td {
     padding: 10px;
 	width: 50%;
+	border: 1px solid;
+}
+
+table {
+    border-collapse: collapse
 }
 
 rt {
